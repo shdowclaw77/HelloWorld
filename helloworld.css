@@ -1,0 +1,23 @@
+body{
+	background-color: #330066;
+}
+
+h1{
+ font-family: georgia, serif;
+ color: grey;
+
+}
+
+p{
+ color: white;
+}
+
+div{
+	height: 100px;
+	width: 15%;
+	border: 2px solid white;
+	margin-top: calc(25% - 50px);
+	margin-left: 42.5%;
+	text-align: center;
+	padding-bottom: 20px;
+}
